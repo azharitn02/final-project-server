@@ -1,0 +1,8 @@
+DB_USERNAME=postgres                        //username-postgress---------require-ganti
+DB_PASSWORD=qwerty                          //pasword-postgress---------require-ganti
+DB_HOST=localhost                           //host-device---------require-ganti
+DB_NAME=ecommerce-final-project             //nama-database-yang-akan-di-create
+PORT=3001 //port
+NODE_ENV=development                        //namaconfig-yang-dipakai
+JWT_SECRET=secret-key                       //---------require-ganti
+DB_TESTNAME=ecommerce-final-project-test    //nama-database-untuk-testing
